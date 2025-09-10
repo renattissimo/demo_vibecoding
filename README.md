@@ -13,3 +13,4 @@ Demo para la clase de vibe coding
 
 ---
 
+![imagen de ia](ia.jpg)
